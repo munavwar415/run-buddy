@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -17,4 +17,4 @@ https://munavwar415.github.io/run-buddy/
 
 Made with ❤️ by [Munavwar Baig]
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
