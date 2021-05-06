@@ -12,3 +12,5 @@ https://munavwar415.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Munavwar Baig]
+
+### ©️2019 Run Buddy, Inc 
