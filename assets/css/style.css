@@ -12,7 +12,7 @@ body {
 
 /* apply styles to <header> */
 header {
-  padding: 25px 35px;
+  padding: 20px 35px;
   background-color: #39a6b2;
   display: flex;
   justify-content: space-between;
@@ -46,7 +46,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  margin: 0 30px;
+  padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -87,6 +87,7 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 .hero-form {
